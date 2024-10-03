@@ -1,2 +1,4 @@
-# Greenhouse-Gas
-Data analysis project on greenhouse gases using Google Sheets/ Excel, Python, and SQL.
+In this project, I utilized a CSV dataset containing information on the greenhouse gas emissions of major global industries from 2010 to 2022. The focus is on developed economies, so the first step was to filter the dataset accordingly. Using Python, I then analyzed the data, extracting relevant information for the selected sample. I created a bar chart to provide a clear visualization of how different sectors contribute to the production of various gases. Subsequently, the filtered data was imported into SQL, where I conducted further analysis to examine the reduction of emissions over the years. The goal is to extract key insights into which industries are the largest emitters of greenhouse gases and assess whether international agreements aimed at reducing emissions are achieving their objectives
+
+
+
