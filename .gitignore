@@ -1,0 +1,8 @@
+# .gitignore
+
+# Entornos de Python
+venv/
+*.pyc
+__pycache__/
+.env/
+.idea/
